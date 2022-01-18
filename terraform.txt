@@ -1,4 +1,8 @@
 testing stash and test
 
 
+<<<<<<< HEAD
 adding 1 
+=======
+adding 1
+>>>>>>> parent of 7921526... Test the revert
